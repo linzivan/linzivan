@@ -2,16 +2,6 @@
 
 I'm a Developer from China!
 
-## 📊 My GitHub Stats
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/linzivan/linzivan/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" width="45%" />
-  <img src="https://raw.githubusercontent.com/linzivan/linzivan/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most Commit Language" width="45%" />
-</p>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/linzivan/linzivan/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats" width="45%" />
-  <img src="https://raw.githubusercontent.com/linzivan/linzivan/main/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive Time" width="45%" />
-</p>
 
 ## 🐍 Contribution Snake
 
